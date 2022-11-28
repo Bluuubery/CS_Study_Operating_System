@@ -77,16 +77,16 @@
 ```bash
 < CS_Study_Networking >
   1. Lecture_1_2_3/ # 스터디 주차별 폴더
-	  Bluuubery/				# 개인별 폴더
-		  1주차_학습정리.md 	   # 학습 정리 내용 (파일 형식 자유)
-		  1주차_퀴즈.md		    # 퀴즈 (정답x)
-		  1주차_정답.md		    # 퀴즈 정답
-	  1109code/
-    	  """ 이하동일 """
-	  sujunghwang/
-    	  """ 이하동일 """
-	  teamzamong/
-    	  """ 이하동일 """
+	Bluuubery/		# 개인별 폴더
+	    1주차_학습정리.md 	  # 학습 정리 내용 (파일 형식 자유)
+	    1주차_퀴즈.md		    # 퀴즈 (정답x)
+	    1주차_정답.md		    # 퀴즈 정답
+	1109code/
+	    """ 이하동일 """
+	sujunghwang/
+	    """ 이하동일 """
+	teamzamong/
+	    """ 이하동일 """
 
   2. Lecture_4_5/
       """ 이하동일 """
