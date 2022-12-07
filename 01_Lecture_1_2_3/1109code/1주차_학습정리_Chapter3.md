@@ -29,7 +29,7 @@
   * 프로세스 관리 블록(PCB)을 할당 받은 개체
   * 능동적인 개체(active entity)
     * 실행 중에 각종 자원을 요구, 할당, 반납하며 진행
-* Process contorl block(PCB)
+* Process Contorl Block(PCB)
 
 
 
